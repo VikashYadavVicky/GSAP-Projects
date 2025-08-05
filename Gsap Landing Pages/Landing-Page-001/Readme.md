@@ -54,7 +54,7 @@ LP01_LandingPage/
 
 ## 🖥️ Live Demo
 
-[🔗 View Live](https://your-live-link.com) *(Replace with your deployed URL)*
+[🔗 View Live](https://vicky-yadav-01.github.io/Gsap-Landing-Page-001/) *(Replace with your deployed URL)*
 
 ## 📌 Setup Instructions
 
