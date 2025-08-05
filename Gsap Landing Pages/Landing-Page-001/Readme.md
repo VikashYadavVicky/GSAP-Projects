@@ -3,6 +3,7 @@
 This is a responsive **Landing Page (Project 01)** powered by **HTML5**, **CSS3**, and **GSAP (GreenSock Animation Platform)**. The design features smooth animations, a modern layout, attractive call-to-actions, and is fully responsive across all screen sizes.
 
 - 🎨 Inspired by this Dribbble shot: [Fi-Store](https://dribbble.com/shots/4986428-Fi-Store)
+- View My Live [🔗 View Live](https://vicky-yadav-01.github.io/Gsap-Landing-Page-001/)
 ---
 
 ## 📸 Preview
@@ -54,7 +55,7 @@ LP01_LandingPage/
 
 ## 🖥️ Live Demo
 
-[🔗 View Live](https://vicky-yadav-01.github.io/Gsap-Landing-Page-001/) *(Replace with your deployed URL)*
+[🔗 View Live](https://vicky-yadav-01.github.io/Gsap-Landing-Page-001/)
 
 ## 📌 Setup Instructions
 
