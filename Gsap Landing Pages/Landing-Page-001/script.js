@@ -35,7 +35,7 @@ t1.to(".main",{
     stagger:3
 
 },'a')
-.to(".paragraph-div",{
+.to(".paragraph p",{
     bottom:0,
     opacity: 1,
     ease:Expo.easeInOut,
@@ -43,7 +43,7 @@ t1.to(".main",{
     stagger:3
 
 },'a')
-.to(".paragraph-div",{
+.to(".paragraph p",{
     delay:3,
     left:500,
     opacity: 0,
