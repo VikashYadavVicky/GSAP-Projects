@@ -9,7 +9,7 @@ This is a responsive **Landing Page (Project 01)** powered by **HTML5**, **CSS3*
 
 ![First Page](./assets/Final%20designs/Design%20first%20page.png)
 ![Second Page](./assets/Final%20designs/Design%20second%20page%20page.png)
-![Third Page](./assets/Final%20designs/Design%20Third%20page.png)
+![Third Page](./assets/Final%20designs/Design%20third%20page.png)
 
 
 ---
